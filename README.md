@@ -8,7 +8,7 @@ JDK_17.0.3.1
 
 In order to execute program run command below using terminal/cmd:
 
-java Main.java p1 p2
+*java Main.java p1 p2*
 
 ### Input
 
@@ -25,14 +25,14 @@ java Main.java p1 p2
 ### Use Cases
 
 
-input: java Main.java 1 8, expected output: *Hello*
+input: *java Main.java 1 8*, expected output: *Hello*
 
-input: java Main.java 1 Hello, expected output: *1st assignment result: ERROR: Please provide a number.*
+input: *java Main.java 1 Hello*, expected output: *1st assignment result: ERROR: Please provide a number.*
 
-input: java Main.java 2 Yulia, expected output: *2nd assignment result: There is no such name.*
+input: *java Main.java 2 Yulia*, expected output: *2nd assignment result: There is no such name.*
 
-input: java Main.java 2 Viacheslav, expected output: *2nd assignment result: Hello, Viacheslav*
+input: *java Main.java 2 Viacheslav*, expected output: *2nd assignment result: Hello, Viacheslav*
 
-input: java Main.java 3 1,2,3,4,5,6,7,8,9,10,11,12 , expected output: 3 6 9 12
+input: *java Main.java 3 1,2,3,4,5,6,7,8,9,10,11,12* , expected output: 3 6 9 12
 
 
