@@ -6,7 +6,7 @@ JDK_17.0.3.1
 
 ### Execution
 
-In order to execute program run command below using terminal/cmd:
+In order to execute program go to "src/com/company" and run command below using terminal/cmd:
 
 *java Main.java p1 p2*
 
