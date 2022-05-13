@@ -38,12 +38,6 @@ public class Main {
                 System.out.println("There is no such assignment.");
 
         }
-
-        // 4th assignment
-        // [((())()(())]]
-        // [[((())()(()))]]
-
-
     }
 
     public static boolean checkNumber (int number) {
@@ -51,6 +45,6 @@ public class Main {
     }
 
     public static boolean checkName (String name) {
-        return name.equalsIgnoreCase("viatcheslaw");
+        return name.equalsIgnoreCase("viacheslav");
     }
 }
