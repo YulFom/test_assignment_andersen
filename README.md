@@ -8,7 +8,7 @@ JDK_17.0.3.1
 
 In order to execute program run command below using terminal/cmd:
 
-java Main.java <p1> <p2>
+java Main.java p1 p2
 
 ### Input
 
