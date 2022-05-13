@@ -30,7 +30,7 @@ public class Main {
                 for (String s : parameter.split(",")) {
                     int number = Integer.parseInt(s.strip());
                     if (number % 3 == 0) {
-                        System.out.println(number);
+                        System.out.print(number + " ");
                     }
                 }
                 break;
